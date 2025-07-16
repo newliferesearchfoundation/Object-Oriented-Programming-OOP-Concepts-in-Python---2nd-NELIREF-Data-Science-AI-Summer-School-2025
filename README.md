@@ -8,6 +8,6 @@ This repository is part of the 2nd NELIREF Data Science & AI Summer School 2025,
 
 **Teaching Assistants (TAs):** Peter Denen Tsaha, Emmanuel Ocholi Benjamin, Terkuma Saaondo and Alexander Takele Mengesha
 
-Tutorial on Blogs: https://www.geeksforgeeks.org/python-oops-concepts/ and https://www.w3schools.blog/python-oops-concepts
+**Tutorial on Blogs:** https://www.geeksforgeeks.org/python-oops-concepts/ and https://www.w3schools.blog/python-oops-concepts
 
 
